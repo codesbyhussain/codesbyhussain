@@ -9,8 +9,6 @@ Here are some ideas to get you started:
      and my LinkedIn: https://www.linkedin.com/in/hussain-manasi/
      As of now, am open to work!
 
-- 🌱 I’m currently learning Frontend WebDev, maybe pursue FullStack soon? :smirk:
-
 - 👯 I’m looking to collaborate with anyone on anything. Im passionate about all things tech.
 <!--
 - 🤔 I’m looking for help with ...
