@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: The microwave was made by accident when scientists tried to discover immortality.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codesbyhussain&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
