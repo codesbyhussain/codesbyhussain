@@ -97,11 +97,13 @@ You can explore several project repositories on my GitHub profile. Below is a sm
 
 ### 2. Software Development Tools and Technologies
 
+- 🔎Document Search Using RAG: Utilized Streamlit along with FAISS indexing and on prem T5-Flan to summarize and deliver research papers based on search criteria.
+
 - 🧾 Accounting-tutor: Utilizes Llama 3.1 with RAG functionalities for user interactions. ChromaDB stores data chunks, while ReactJS powers the frontend. Hosted on a university network using GitLab.
 
 - 📛 StreamlitBasics: Implements RAG with a basic AI agent setup, allowing users to interact with an LLM backend. A stepping stone into AI agents.
 
-- 🔎Techno: A Laravel-based portal for university students to interact and register for events organized by cultural and technical societies.
+- 🗲Techno: A Laravel-based portal for university students to interact and register for events organized by cultural and technical societies.
 
 - 💡Tawakkol: An e-commerce website for an electronics shop built with Laravel and Bootstrap. Features include item checkout and invoice generation.
 
