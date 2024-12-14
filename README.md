@@ -15,6 +15,10 @@ Here are some ideas to get you started:
   <a href="mailto:hussainjmanasi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://reviewshm.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+    " alt="Blogger Badge"/>
+  </a>
   </div>
 <h1> Hi there 👋 <br/>
 My name is Hussain Manasi, welcome to my Github Profile!</h1>
@@ -26,16 +30,21 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
 
 ## 🧑‍💻 About Me :
 
+- 🎓I hold a Bachelor's degree in Computer Science Engineering from NIT Bhopal and a Master's in Data Science and Analytics from Georgia State University.
+
 - 🔭 I’m a Data Scientist with expertise in Computer Vision, Machine Learning, and Deep Learning, focusing on research and real-world applications.
 
 - 🌱 I’m currently working on innovative projects in the domain of VisionLMs, blending deep learning with advanced visual understanding.
 
-- ✍🏽 In my free time, I enjoy writing reviews and essays on my blog about anything and everything.
+- ✍🏽 In my free time, I enjoy writing reviews and essays on my blog about anything and everything. [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+)](https://reviewshm.blogspot.com/)
 
 - Reach me by LinkedIn [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-manasi/) or by email [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainjmanasi@gmail.com)
 
 
 ## 🛠️ Project Guide:
+
+You can explore several project repositories on my GitHub profile. Below is a small guide and overview of all the projects. Feel free to clone or fork them, and if you have any suggestions or reviews, I’d love to connect and possibly collaborate on future projects!
 
 ### 1. Data Science Tools and Technologies
 
@@ -60,6 +69,8 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
 - 🎥 CinemaScope: Utilized IMDb datasets to predict movie ratings using deep learning models. Additionally, text analytics provided insights into customer sentiment and reviews.
 
 - 🌦️ Statistical Foundation Project: Analyzed weather data for a specific region, applying statistical methods in R and RStudio to extract meaningful patterns and insights.
+
+#### ✨Technologies Used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -105,6 +116,7 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
 
 - 🛫 Airline System: A C++ project using file systems to store and manage user data and transactions for flight booking. It was my first coding project.
 
+#### ✨Technologies Used:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
