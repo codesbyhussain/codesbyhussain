@@ -24,7 +24,7 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 🧑‍💻 About Me :
+## 🧑‍💻 About Me :
 
 - 🔭 I’m a Data Scientist with expertise in Computer Vision, Machine Learning, and Deep Learning, focusing on research and real-world applications.
 
@@ -35,9 +35,9 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
 - Reach me by LinkedIn [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-manasi/) or by email [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussainjmanasi@gmail.com)
 
 
-### 🛠️ Project Guide:
+## 🛠️ Project Guide:
 
-1. Data Science Tools and Technologies
+### 1. Data Science Tools and Technologies
 
 - 📈 Research Stock Market Prediction: Leveraged LSTMs with various optimizations to predict stock market trends. The research emphasized accuracy improvements and was published in IEEE Xplore.
 
@@ -85,7 +85,7 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
 </div>
 
 
-2. Software Development Tools and Technologies
+### 2. Software Development Tools and Technologies
 
 - 🧾 Accounting-tutor: Utilizes Llama 3.1 with RAG functionalities for user interactions. ChromaDB stores data chunks, while ReactJS powers the frontend. Hosted on a university network using GitLab.
 
