@@ -29,7 +29,7 @@ My name is Hussain Manasi, welcome to my Github Profile!</h1>
 
 ## 🧑‍💻 About Me :
 
-- 🎓I hold a Bachelor's degree in Computer Science Engineering from NIT Bhopal and a Master's in Data Science and Analytics from Georgia State University.
+- 🎓I hold a Bachelor's degree in Computer Science Engineering from NIT Bhopal and a Master's in Data Science and Analytics and am currently pursuing my PhD in Computer Science from Georgia State University .
 
 - 🔭 I’m a Data Scientist with expertise in Computer Vision, Machine Learning, and Deep Learning, focusing on research and real-world applications.
 
